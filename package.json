@@ -4,7 +4,9 @@
   "description": "Multi purpose app",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node index",
+    "test": "mocha",
+    "test:watch": "mocha --watch"
   },
   "repository": {
     "type": "git",
@@ -18,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/antonmitsev/multi/issues"
   },
-  "homepage": "https://github.com/antonmitsev/multi#readme"
+  "homepage": "https://github.com/antonmitsev/multi#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
 }
