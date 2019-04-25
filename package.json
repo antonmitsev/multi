@@ -1,0 +1,22 @@
+{
+  "name": "@antonmitsev/multi",
+  "version": "1.0.0",
+  "description": "Multi purpose app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonmitsev/multi.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Anton Mitsev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/antonmitsev/multi/issues"
+  },
+  "homepage": "https://github.com/antonmitsev/multi#readme"
+}
